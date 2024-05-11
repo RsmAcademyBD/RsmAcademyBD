@@ -1,8 +1,8 @@
 
 ![Android App And Web Developer](rsmacademybdwebsite.png)
 
-<h1 align="center">Hi there 👋, I'm Md mamun Hossain</h1>
-<h3 align="center">A passionate Android App And Web developer from Bangladesh</h3>
+<h1 align="center">Hi there 👋, I'm Md Mamun Hossain</h1>
+<h3 align="center">A Passionate Android App And Web Developer From Bangladesh</h3>
 
 <h5>
 As-salamu alaikum wa-rahmatullahi wa-barakatu.
